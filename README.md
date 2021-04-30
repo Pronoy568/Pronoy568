@@ -9,8 +9,7 @@ I'm a 😍😍 JavaScript Lover 😍😍!
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pronoy568&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Pronoy568>&theme=<THEME_NAME>" />
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
